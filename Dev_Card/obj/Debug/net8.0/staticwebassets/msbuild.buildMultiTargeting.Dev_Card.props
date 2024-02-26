@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dev_Card.props" />
+</Project>
