@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Project\\New folder\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1702E1FD-EAE6-4DC2-B9D0-92D4B742C164}|Dev_Card\\Dev_Card.csproj|d:\\.net\\project\\new folder\\test\\dev_card\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1702E1FD-EAE6-4DC2-B9D0-92D4B742C164}|Dev_Card\\Dev_Card.csproj|solutionrelative:dev_card\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702E1FD-EAE6-4DC2-B9D0-92D4B742C164}|Dev_Card\\Dev_Card.csproj|d:\\.net\\project\\new folder\\test\\dev_card\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1702E1FD-EAE6-4DC2-B9D0-92D4B742C164}|Dev_Card\\Dev_Card.csproj|solutionrelative:dev_card\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702E1FD-EAE6-4DC2-B9D0-92D4B742C164}|Dev_Card\\Dev_Card.csproj|d:\\.net\\project\\new folder\\test\\dev_card\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1702E1FD-EAE6-4DC2-B9D0-92D4B742C164}|Dev_Card\\Dev_Card.csproj|solutionrelative:dev_card\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702E1FD-EAE6-4DC2-B9D0-92D4B742C164}|Dev_Card\\Dev_Card.csproj|d:\\.net\\project\\new folder\\test\\dev_card\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1702E1FD-EAE6-4DC2-B9D0-92D4B742C164}|Dev_Card\\Dev_Card.csproj|solutionrelative:dev_card\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Project\\New folder\\test\\Dev_Card\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Dev_Card\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\.Net\\Project\\New folder\\test\\Dev_Card\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Dev_Card\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T12:42:09.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\Project\\New folder\\test\\Dev_Card\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Dev_Card\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\Project\\New folder\\test\\Dev_Card\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Dev_Card\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:52:38.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Project\\New folder\\test\\Dev_Card\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dev_Card\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\Project\\New folder\\test\\Dev_Card\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Dev_Card\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T11:48:10.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Project\\New folder\\test\\Dev_Card\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Dev_Card\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net\\Project\\New folder\\test\\Dev_Card\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dev_Card\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T11:41:43.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
